@@ -1,0 +1,31 @@
+---
+title: "BME 4550 - Seminar Report 2"
+output:
+  html_document:
+    df_print: paged
+---
+Name: Colin Price
+Seminar Speaker's Name: Ali D. Guler
+Seminar Speaker's Title: Assistant Professor of Biology
+Seminar Speaker's Affiliation: Biology
+Date: 11/7/2018
+Time: 1:00 PM
+Seminar Title: Food, time, and dopamine: How rewarding snacks hijack your brain
+
+Seminar Summary:
+  Overarching Research Topic: Circadian circuitry, specifically day vs night and dopamine from food on obesity (eating for pleasure vs eating for need)
+  
+  Research Question: How does dopamine impact circadian circuity? Can this be simulated in specific neurons?
+  
+  Methods: Tracking wheel running acitivity in different mouse conditions, plotted vs time of day. Chemogenetically activated Drd1-SCN neurons using an Adneo-associated virus for experimental condition. This hope is that it will show the same behavioral response as light stimulation does. Activity in these neurons seemed to correlate with delay in circadian shift time. Also investigated chemotactic VTA.
+  
+  Experimental Design: Investigated running patterns of wild type mice at day vs night. Saw when they were transplanted to new light-dark cycle they were able to adjust. Ones that were upRGC ablated had a harder time adjusting to the cycle when transplanted. Similar experiments were repeated on various knockout mice, like Drd1-KO mice that are resistant to diet induced dopamine responses (dont gain weight) because they didnt eat in excess during "non regular" meal times. Can be observed in slides showing adipose tissue. Observed behaviorly, in terms of weight gain, and on biopsy slides. Knockouts sustained robust metabolics circadian rythms. They also had similar shared microbiomes
+  
+  Is the research relevant to your project?: Not particularly. But still interesting.
+  
+  Question 1 addressed towards speaker: What other mechanisms might be explained by dopamine (habituation or otherwise)?
+  
+  Question 2 addresssed towards speaker: What were the statistical tests run? Did you need to apply batch correction?
+  
+  Take-home: Hedonic overeating and homeostatic dysregulation overlap a lot- like for example shopping when hungry will impact grocery store habits vs when not hungry. Food influences dopamine, which is tied to habituation and circadian-like responses. Positive feedback from 'liking' something is good in the wild, but leads to problems in our high calorie consumption world. Leads to metabolic disorganization, and messes up our cycles. 
+  
